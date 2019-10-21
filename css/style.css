@@ -1,0 +1,58 @@
+h1{
+    text-align: center; 
+    color: #fc7b03;
+    font-size: 4em;
+}
+body{
+    
+}
+ui container{
+    background-color: #036bfc;
+}
+section{
+    background-color: white;
+    margin: 1em;
+    padding: 1em;
+}
+.rigth{
+    width: 100px;
+    height: 90px;
+    float: right;
+}
+
+
+.ui raised segment{
+    margin: .5em;
+    padding: 1em
+}
+
+
+.ui.pointing.menu{
+}
+.ui.pointing.menu .item {
+  color: black;
+  font-weight:bold;
+    
+}
+
+.ui.pointing.menu .active.item:after {
+  background-color:	#fc7b03;//yellow
+}
+
+
+.ui.pointing.menu .item:hover {
+  background-color:#fc7b03; //yellow
+  color:black;
+}
+
+.ui.pointing.menu .active.item {
+  background-color:#036bfc; //red
+  color:white;
+  font-weight:bold;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
