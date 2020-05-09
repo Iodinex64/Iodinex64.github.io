@@ -1384,6 +1384,10 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 	}
 
+.textcenter {
+	text-align: center;
+}
+
 	@media screen and (max-width: 736px) {
 
 		h1 {
@@ -2188,4 +2192,5 @@ input, select, textarea {
 				margin-left: 0.5em;
 			}
 
-		}
+		}.h4 {
+}
