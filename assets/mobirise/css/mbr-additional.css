@@ -1398,7 +1398,7 @@ a {
 .cid-sftz75lYMD {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-sftz75lYMD .row {
   align-items: center;
@@ -1416,9 +1416,11 @@ a {
 .cid-sftz75lYMD .mbr-text,
 .cid-sftz75lYMD .mbr-section-btn {
   text-align: left;
+  color: #ffffff;
 }
 .cid-sftz75lYMD .mbr-section-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-sfn8ikz3iD {
   padding-top: 30px;
@@ -2266,7 +2268,7 @@ a {
 .cid-sftGYSmfZL {
   padding-top: 10rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-sftGYSmfZL .mbr-section-subtitle {
   color: #e43f3f;
@@ -2274,11 +2276,12 @@ a {
 }
 .cid-sftGYSmfZL .mbr-text {
   text-align: center;
+  color: #ffffff;
 }
 .cid-sftDJOXzmN {
   padding-top: 0rem;
   padding-bottom: 9rem;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 @media (min-width: 1500px) {
   .cid-sftDJOXzmN .container {
@@ -2296,6 +2299,13 @@ a {
 }
 .cid-sftDJOXzmN .row {
   justify-content: center;
+}
+.cid-sftDJOXzmN .card-text {
+  color: #ffffff;
+}
+.cid-sftDJOXzmN .card-title,
+.cid-sftDJOXzmN .iconfont-wrapper {
+  color: #ffffff;
 }
 .cid-sfn8ikz3iD {
   padding-top: 30px;
