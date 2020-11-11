@@ -1642,7 +1642,7 @@ a {
 .cid-sfyNKOFnE8 {
   padding-top: 2rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/splash-1920x1080.jpg");
+  background-color: #000000;
 }
 @media (min-width: 1500px) {
   .cid-sfyNKOFnE8 .container {
@@ -1662,7 +1662,7 @@ a {
   justify-content: center;
 }
 .cid-sfyNKOFnE8 .card-text {
-  color: #22a5e5;
+  color: #ffffff;
 }
 .cid-sfn8ikz3iD {
   padding-top: 30px;
